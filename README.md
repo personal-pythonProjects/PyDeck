@@ -54,4 +54,4 @@ You win!
 - **Computer Strategy**: The computer continues to draw cards until its score is at least 17, unless it gets a Blackjack or busts.
 
 ## About Me
-**A. RAHMAN** - Python Developer & Gaming Enthusiast
+**A. RAHMAN** - Python Developer & Tech Enthusiast
